@@ -42,3 +42,27 @@ ul li:nth-of-type(3) {
 .java {
     background-color: pink;
 }
+
+ul li a:hover {
+    font-weight: bold;
+}
+
+#stack:hover {
+    color: orange;
+}
+
+#w3s:hover {
+    color: green;
+}
+
+#mozilla:hover {
+    color: black;
+}
+
+#devdocs:hover {
+    color: yellow;
+}
+
+#trybe:hover {
+    color: green;
+}
